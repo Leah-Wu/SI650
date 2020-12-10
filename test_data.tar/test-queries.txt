@@ -1,3 +1,0 @@
-guitar, beginner, resonate
-microphone, sound quality, bluetooth
-ukulele, sound quality, light
