@@ -1,3 +1,20 @@
-guitar, beginner, resonate
-microphone, sound quality, bluetooth
-ukulele, sound quality, light
+earphone,wireless,waterproof
+earphone,noise canceling,in ear
+headphone,light,long playtime
+laptop,windows,game friendly,slim
+laptop,student,affordable
+tablet,android,slim
+tablet,affordable,light-weight
+ipad case,slim,magnetic
+watch,ftiness track,waterproof
+watch,long battery life,bluetooth
+monitor,slim,frameless,good picture quality
+speaker,blutooth,long battery life
+tv,smart,good picture quality
+projector,portable,good picture quality
+keyboard,wireless,backlight,smooth
+mouse,wireless,quiet
+printer,wireless,fast
+mount,stable,easy install,flexible
+lamp,portable,eye-caring,wireless
+humidifiers,quiet,easy clean
