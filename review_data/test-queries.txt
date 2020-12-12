@@ -5,7 +5,7 @@ laptop,windows,game friendly,slim
 laptop,student,affordable
 tablet,android,slim
 tablet,affordable,light-weight
-ipad case,slim,magnetic
+case,slim,magnetic
 watch,ftiness track,waterproof
 watch,long battery life,bluetooth
 monitor,slim,frameless,good picture quality
