@@ -1,0 +1,331 @@
+queryid,productid,product_url,query_text,relevance
+1,B00275F2GS,https://www.amazon.com/dp/B00275F2GS,"earphone,wireless,waterproof
+",0
+1,B0036J1S1W,https://www.amazon.com/dp/B0036J1S1W,"earphone,wireless,waterproof
+",1
+1,B004CHHLDG,https://www.amazon.com/dp/B004CHHLDG,"earphone,wireless,waterproof
+",0
+1,B001GPCBPU,https://www.amazon.com/dp/B001GPCBPU,"earphone,wireless,waterproof
+",0
+1,B001I1A5WS,https://www.amazon.com/dp/B001I1A5WS,"earphone,wireless,waterproof
+",0
+1,B001GUPEMW,https://www.amazon.com/dp/B001GUPEMW,"earphone,wireless,waterproof
+",1
+1,B0051RW1SQ,https://www.amazon.com/dp/B0051RW1SQ,"earphone,wireless,waterproof
+",0
+1,B005J0RAI6,https://www.amazon.com/dp/B005J0RAI6,"earphone,wireless,waterproof
+",0
+1,B005J0W3F6,https://www.amazon.com/dp/B005J0W3F6,"earphone,wireless,waterproof
+",0
+1,B003DW4A76,https://www.amazon.com/dp/B003DW4A76,"earphone,wireless,waterproof
+",0
+2,B001GPCBPU,https://www.amazon.com/dp/B001GPCBPU,"earphone,noise canceling,in ear
+",0
+2,B007BWCDYQ,https://www.amazon.com/dp/B007BWCDYQ,"earphone,noise canceling,in ear
+",0
+2,B00029U0YK,https://www.amazon.com/dp/B00029U0YK,"earphone,noise canceling,in ear
+",0
+2,B00275F2GS,https://www.amazon.com/dp/B00275F2GS,"earphone,noise canceling,in ear
+",0
+2,B0036J1S1W,https://www.amazon.com/dp/B0036J1S1W,"earphone,noise canceling,in ear
+",0
+2,B005J0W3F6,https://www.amazon.com/dp/B005J0W3F6,"earphone,noise canceling,in ear
+",1
+2,B005J0RAI6,https://www.amazon.com/dp/B005J0RAI6,"earphone,noise canceling,in ear
+",1
+2,B001GUPEMW,https://www.amazon.com/dp/B001GUPEMW,"earphone,noise canceling,in ear
+",1
+2,B005IZ65G0,https://www.amazon.com/dp/B005IZ65G0,"earphone,noise canceling,in ear
+",1
+2,B001I1A5WS,https://www.amazon.com/dp/B001I1A5WS,"earphone,noise canceling,in ear
+",1
+3,B008LSUY7W,https://www.amazon.com/dp/B008LSUY7W,"headphone,light,long playtime
+",0
+3,B00113XADE,https://www.amazon.com/dp/B00113XADE,"headphone,light,long playtime
+",0
+3,B00478O0JI,https://www.amazon.com/dp/B00478O0JI,"headphone,light,long playtime
+",1
+3,B0009MFKDQ,https://www.amazon.com/dp/B0009MFKDQ,"headphone,light,long playtime
+",1
+3,B002VPDOH8,https://www.amazon.com/dp/B002VPDOH8,"headphone,light,long playtime
+",0
+3,B003BRNZTM,https://www.amazon.com/dp/B003BRNZTM,"headphone,light,long playtime
+",0
+3,B0036RDVU0,https://www.amazon.com/dp/B0036RDVU0,"headphone,light,long playtime
+",1
+3,B00CXP4AS8,https://www.amazon.com/dp/B00CXP4AS8,"headphone,light,long playtime
+",1
+3,B0033ZP5YA,https://www.amazon.com/dp/B0033ZP5YA,"headphone,light,long playtime
+",0
+3,B0036RA4CS,https://www.amazon.com/dp/B0036RA4CS,"headphone,light,long playtime
+",1
+4,B004VC3NM0,https://www.amazon.com/dp/B004VC3NM0,"laptop,windows,game friendly,slim
+",1
+4,B00D4OF6SK,https://www.amazon.com/dp/B00D4OF6SK,"laptop,windows,game friendly,slim
+",1
+4,B001KV0Z5I,https://www.amazon.com/dp/B001KV0Z5I,"laptop,windows,game friendly,slim
+",0
+4,B008C3DEXM,https://www.amazon.com/dp/B008C3DEXM,"laptop,windows,game friendly,slim
+",0
+4,B005E99A8K,https://www.amazon.com/dp/B005E99A8K,"laptop,windows,game friendly,slim
+",0
+4,B008F1GFWI,https://www.amazon.com/dp/B008F1GFWI,"laptop,windows,game friendly,slim
+",0
+4,B00763W9H6,https://www.amazon.com/dp/B00763W9H6,"laptop,windows,game friendly,slim
+",0
+4,B0023XKUHA,https://www.amazon.com/dp/B0023XKUHA,"laptop,windows,game friendly,slim
+",0
+4,B009Z7NE1Q,https://www.amazon.com/dp/B009Z7NE1Q,"laptop,windows,game friendly,slim
+",1
+4,B002I2RHXQ,https://www.amazon.com/dp/B002I2RHXQ,"laptop,windows,game friendly,slim
+",0
+5,B005X1Y7I2,https://www.amazon.com/dp/B005X1Y7I2,"stick,bluetooth,good remote",0
+5,B000065UDU,https://www.amazon.com/dp/B000065UDU,"stick,bluetooth,good remote",0
+5,B000JV3A20,https://www.amazon.com/dp/B000JV3A20,"stick,bluetooth,good remote",0
+5,B005GFXH6S,https://www.amazon.com/dp/B005GFXH6S,"stick,bluetooth,good remote",0
+5,B007RDWF0Q,https://www.amazon.com/dp/B007RDWF0Q,"stick,bluetooth,good remote",0
+5,B0042F3K9W,https://www.amazon.com/dp/B0042F3K9W,"stick,bluetooth,good remote",0
+5,B00E0NRESE,https://www.amazon.com/dp/B00E0NRESE,"stick,bluetooth,good remote",0
+5,B005NF5NTK,https://www.amazon.com/dp/B005NF5NTK,"stick,bluetooth,good remote",0
+5,B004CJPS66,https://www.amazon.com/dp/B004CJPS66,"stick,bluetooth,good remote",0
+5,B000JLK5PK,https://www.amazon.com/dp/B000JLK5PK,"stick,bluetooth,good remote",0
+6,B008YGKVBU,https://www.amazon.com/dp/B008YGKVBU,"tablet,android,slim
+",1
+6,B0082YEH8M,https://www.amazon.com/dp/B0082YEH8M,"tablet,android,slim
+",1
+6,B005PSLFGA,https://www.amazon.com/dp/B005PSLFGA,"tablet,android,slim
+",1
+6,B00INXO85O,https://www.amazon.com/dp/B00INXO85O,"tablet,android,slim
+",1
+6,B005JN1AT8,https://www.amazon.com/dp/B005JN1AT8,"tablet,android,slim
+",1
+6,B00HC8BY4Y,https://www.amazon.com/dp/B00HC8BY4Y,"tablet,android,slim
+",0
+6,B008N1TU22,https://www.amazon.com/dp/B008N1TU22,"tablet,android,slim
+",1
+6,B00GZNCP3G,https://www.amazon.com/dp/B00GZNCP3G,"tablet,android,slim
+",0
+6,B00BQ5KHJW,https://www.amazon.com/dp/B00BQ5KHJW,"tablet,android,slim
+",0
+6,B008YMA7QS,https://www.amazon.com/dp/B008YMA7QS,"tablet,android,slim
+",0
+7,B0082YEH8M,https://www.amazon.com/dp/B0082YEH8M,"tablet,affordable,light-weight
+",1
+7,B004OA6VYQ,https://www.amazon.com/dp/B004OA6VYQ,"tablet,affordable,light-weight
+",0
+7,B005PSLFGA,https://www.amazon.com/dp/B005PSLFGA,"tablet,affordable,light-weight
+",1
+7,B0087AUCSA,https://www.amazon.com/dp/B0087AUCSA,"tablet,affordable,light-weight
+",1
+7,B00FCU6NWM,https://www.amazon.com/dp/B00FCU6NWM,"tablet,affordable,light-weight
+",1
+7,B00A6J4WHW,https://www.amazon.com/dp/B00A6J4WHW,"tablet,affordable,light-weight
+",0
+7,B00COAGRFG,https://www.amazon.com/dp/B00COAGRFG,"tablet,affordable,light-weight
+",0
+7,B00A0M3MY4,https://www.amazon.com/dp/B00A0M3MY4,"tablet,affordable,light-weight
+",0
+7,B00BVKFWGA,https://www.amazon.com/dp/B00BVKFWGA,"tablet,affordable,light-weight
+",0
+7,B004HZGL66,https://www.amazon.com/dp/B004HZGL66,"tablet,affordable,light-weight
+",1
+8,B005ESY8VA,https://www.amazon.com/dp/B005ESY8VA,"case,slim,magnetic
+",0
+8,B007PA1K84,https://www.amazon.com/dp/B007PA1K84,"case,slim,magnetic
+",1
+8,B008I33BAC,https://www.amazon.com/dp/B008I33BAC,"case,slim,magnetic
+",1
+8,B007B31IAK,https://www.amazon.com/dp/B007B31IAK,"case,slim,magnetic
+",0
+8,B007M58WWO,https://www.amazon.com/dp/B007M58WWO,"case,slim,magnetic
+",1
+8,B00FCU6NWM,https://www.amazon.com/dp/B00FCU6NWM,"case,slim,magnetic
+",1
+8,B006BDRT68,https://www.amazon.com/dp/B006BDRT68,"case,slim,magnetic
+",1
+8,B002KAMD9Y,https://www.amazon.com/dp/B002KAMD9Y,"case,slim,magnetic
+",0
+8,B005HMUSOO,https://www.amazon.com/dp/B005HMUSOO,"case,slim,magnetic
+",1
+8,B005UTAU24,https://www.amazon.com/dp/B005UTAU24,"case,slim,magnetic
+",0
+9,B002N694A6,https://www.amazon.com/dp/B002N694A6,"memory card,affordable,high speed",0
+9,B000HDQ2G6,https://www.amazon.com/dp/B000HDQ2G6,"memory card,affordable,high speed",0
+9,B002TQ6HT6,https://www.amazon.com/dp/B002TQ6HT6,"memory card,affordable,high speed",0
+9,B000HCGAFK,https://www.amazon.com/dp/B000HCGAFK,"memory card,affordable,high speed",0
+9,B002OL80UK,https://www.amazon.com/dp/B002OL80UK,"memory card,affordable,high speed",0
+9,B002OWHZMI,https://www.amazon.com/dp/B002OWHZMI,"memory card,affordable,high speed",0
+9,B003EGNUH2,https://www.amazon.com/dp/B003EGNUH2,"memory card,affordable,high speed",0
+9,B000ICLQD0,https://www.amazon.com/dp/B000ICLQD0,"memory card,affordable,high speed",0
+9,B003UGJFT8,https://www.amazon.com/dp/B003UGJFT8,"memory card,affordable,high speed",0
+9,B002PLBP56,https://www.amazon.com/dp/B002PLBP56,"memory card,affordable,high speed",0
+10,B005HMT7QY,https://www.amazon.com/dp/B005HMT7QY,"player,bluetooth,portable",0
+10,B004PEIAD6,https://www.amazon.com/dp/B004PEIAD6,"player,bluetooth,portable",0
+10,B000EC3GDC,https://www.amazon.com/dp/B000EC3GDC,"player,bluetooth,portable",0
+10,B001A5FH9S,https://www.amazon.com/dp/B001A5FH9S,"player,bluetooth,portable",0
+10,B00B95REMW,https://www.amazon.com/dp/B00B95REMW,"player,bluetooth,portable",0
+10,B0063W923A,https://www.amazon.com/dp/B0063W923A,"player,bluetooth,portable",0
+10,B004IMEN7C,https://www.amazon.com/dp/B004IMEN7C,"player,bluetooth,portable",0
+10,B005FPT5DI,https://www.amazon.com/dp/B005FPT5DI,"player,bluetooth,portable",0
+10,B00H3JTT30,https://www.amazon.com/dp/B00H3JTT30,"player,bluetooth,portable",0
+10,B0031HG5XU,https://www.amazon.com/dp/B0031HG5XU,"player,bluetooth,portable",0
+11,B006O6ADIS,https://www.amazon.com/dp/B006O6ADIS,"monitor,slim,frameless,good picture quality
+",0
+11,B003LNZ1L6,https://www.amazon.com/dp/B003LNZ1L6,"monitor,slim,frameless,good picture quality
+",0
+11,B0030CE6C8,https://www.amazon.com/dp/B0030CE6C8,"monitor,slim,frameless,good picture quality
+",1
+11,B006I0KL6Y,https://www.amazon.com/dp/B006I0KL6Y,"monitor,slim,frameless,good picture quality
+",0
+11,B003JLPWAK,https://www.amazon.com/dp/B003JLPWAK,"monitor,slim,frameless,good picture quality
+",0
+11,B0041I8UAO,https://www.amazon.com/dp/B0041I8UAO,"monitor,slim,frameless,good picture quality
+",1
+11,B00B7IPT6Y,https://www.amazon.com/dp/B00B7IPT6Y,"monitor,slim,frameless,good picture quality
+",1
+11,B000X6XMWY,https://www.amazon.com/dp/B000X6XMWY,"monitor,slim,frameless,good picture quality
+",1
+11,B004HH1MR2,https://www.amazon.com/dp/B004HH1MR2,"monitor,slim,frameless,good picture quality
+",1
+11,B00AIWFNUW,https://www.amazon.com/dp/B00AIWFNUW,"monitor,slim,frameless,good picture quality
+",0
+12,B005Z3GINK,https://www.amazon.com/dp/B005Z3GINK,"speaker,blutooth,long battery life
+",1
+12,B00AI5T7AG,https://www.amazon.com/dp/B00AI5T7AG,"speaker,blutooth,long battery life
+",0
+12,B00AI5UOJ4,https://www.amazon.com/dp/B00AI5UOJ4,"speaker,blutooth,long battery life
+",0
+12,B00FZWZYWM,https://www.amazon.com/dp/B00FZWZYWM,"speaker,blutooth,long battery life
+",1
+12,B009FPUBBE,https://www.amazon.com/dp/B009FPUBBE,"speaker,blutooth,long battery life
+",1
+12,B00D42AESY,https://www.amazon.com/dp/B00D42AESY,"speaker,blutooth,long battery life
+",1
+12,B00313JD06,https://www.amazon.com/dp/B00313JD06,"speaker,blutooth,long battery life
+",1
+12,B007XOQI4S,https://www.amazon.com/dp/B007XOQI4S,"speaker,blutooth,long battery life
+",1
+12,B000BSOBG0,https://www.amazon.com/dp/B000BSOBG0,"speaker,blutooth,long battery life
+",1
+12,B00AI5VWAY,https://www.amazon.com/dp/B00AI5VWAY,"speaker,blutooth,long battery life
+",0
+13,B00C8ZGOKU,https://www.amazon.com/dp/B00C8ZGOKU,"tv,smart,good picture quality
+",0
+13,B00DK0VBTQ,https://www.amazon.com/dp/B00DK0VBTQ,"tv,smart,good picture quality
+",0
+13,B0091UHMHO,https://www.amazon.com/dp/B0091UHMHO,"tv,smart,good picture quality
+",0
+13,B00DK7B8JC,https://www.amazon.com/dp/B00DK7B8JC,"tv,smart,good picture quality
+",0
+13,B002U6KT8U,https://www.amazon.com/dp/B002U6KT8U,"tv,smart,good picture quality
+",0
+13,B000GIT002,https://www.amazon.com/dp/B000GIT002,"tv,smart,good picture quality
+",0
+13,B0082ULKUE,https://www.amazon.com/dp/B0082ULKUE,"tv,smart,good picture quality
+",1
+13,B004GMAAJY,https://www.amazon.com/dp/B004GMAAJY,"tv,smart,good picture quality
+",0
+13,B005O3YS38,https://www.amazon.com/dp/B005O3YS38,"tv,smart,good picture quality
+",0
+13,B005QT59YW,https://www.amazon.com/dp/B005QT59YW,"tv,smart,good picture quality
+",0
+14,B003NREDC8,https://www.amazon.com/dp/B003NREDC8,"keyboard,quiet,affordable",0
+14,B001N7AFSG,https://www.amazon.com/dp/B001N7AFSG,"keyboard,quiet,affordable",0
+14,B008FUW1J0,https://www.amazon.com/dp/B008FUW1J0,"keyboard,quiet,affordable",0
+14,B004GTQNS4,https://www.amazon.com/dp/B004GTQNS4,"keyboard,quiet,affordable",0
+14,B001NJQ5PG,https://www.amazon.com/dp/B001NJQ5PG,"keyboard,quiet,affordable",0
+14,B006B15PWU,https://www.amazon.com/dp/B006B15PWU,"keyboard,quiet,affordable",0
+14,B00AXY9CF2,https://www.amazon.com/dp/B00AXY9CF2,"keyboard,quiet,affordable",0
+14,B0055PYQU0,https://www.amazon.com/dp/B0055PYQU0,"keyboard,quiet,affordable",0
+14,B001NJTZUS,https://www.amazon.com/dp/B001NJTZUS,"keyboard,quiet,affordable",0
+14,B0043CG3QG,https://www.amazon.com/dp/B0043CG3QG,"keyboard,quiet,affordable",0
+15,B004WQO9HI,https://www.amazon.com/dp/B004WQO9HI,"keyboard,wireless,backlight,smooth
+",1
+15,B0065UZMJ8,https://www.amazon.com/dp/B0065UZMJ8,"keyboard,wireless,backlight,smooth
+",1
+15,B005HBWIYI,https://www.amazon.com/dp/B005HBWIYI,"keyboard,wireless,backlight,smooth
+",1
+15,B0055PYQU0,https://www.amazon.com/dp/B0055PYQU0,"keyboard,wireless,backlight,smooth
+",0
+15,B003NREDC8,https://www.amazon.com/dp/B003NREDC8,"keyboard,wireless,backlight,smooth
+",1
+15,B003BRURLG,https://www.amazon.com/dp/B003BRURLG,"keyboard,wireless,backlight,smooth
+",1
+15,B004CVHCO0,https://www.amazon.com/dp/B004CVHCO0,"keyboard,wireless,backlight,smooth
+",1
+15,B003BRURUW,https://www.amazon.com/dp/B003BRURUW,"keyboard,wireless,backlight,smooth
+",0
+15,B0050M92CU,https://www.amazon.com/dp/B0050M92CU,"keyboard,wireless,backlight,smooth
+",0
+15,B00AXY9CF2,https://www.amazon.com/dp/B00AXY9CF2,"keyboard,wireless,backlight,smooth
+",0
+16,B0000AOWW9,https://www.amazon.com/dp/B0000AOWW9,"mouse,wireless,quiet
+",1
+16,B0055QL1DO,https://www.amazon.com/dp/B0055QL1DO,"mouse,wireless,quiet
+",0
+16,B004WITQ9C,https://www.amazon.com/dp/B004WITQ9C,"mouse,wireless,quiet
+",0
+16,B00004VX3T,https://www.amazon.com/dp/B00004VX3T,"mouse,wireless,quiet
+",1
+16,B00005TQ09,https://www.amazon.com/dp/B00005TQ09,"mouse,wireless,quiet
+",1
+16,B000GOUE7O,https://www.amazon.com/dp/B000GOUE7O,"mouse,wireless,quiet
+",1
+16,B0000AOWW8,https://www.amazon.com/dp/B0000AOWW8,"mouse,wireless,quiet
+",1
+16,B00013VHAS,https://www.amazon.com/dp/B00013VHAS,"mouse,wireless,quiet
+",1
+16,B00005TQ08,https://www.amazon.com/dp/B00005TQ08,"mouse,wireless,quiet
+",1
+16,B005EDAEZO,https://www.amazon.com/dp/B005EDAEZO,"mouse,wireless,quiet
+",0
+17,B00D780NNQ,https://www.amazon.com/dp/B00D780NNQ,"drive,portable,good quality",0
+17,B004RUTBIG,https://www.amazon.com/dp/B004RUTBIG,"drive,portable,good quality",0
+17,B00FDUHD2K,https://www.amazon.com/dp/B00FDUHD2K,"drive,portable,good quality",0
+17,B006FNCWSY,https://www.amazon.com/dp/B006FNCWSY,"drive,portable,good quality",0
+17,B00A84E4BO,https://www.amazon.com/dp/B00A84E4BO,"drive,portable,good quality",0
+17,B007582KGM,https://www.amazon.com/dp/B007582KGM,"drive,portable,good quality",0
+17,B008AL9VXI,https://www.amazon.com/dp/B008AL9VXI,"drive,portable,good quality",0
+17,B001AN16QI,https://www.amazon.com/dp/B001AN16QI,"drive,portable,good quality",0
+17,B0012R9WHW,https://www.amazon.com/dp/B0012R9WHW,"drive,portable,good quality",0
+17,B0027CEMW6,https://www.amazon.com/dp/B0027CEMW6,"drive,portable,good quality",0
+18,B003HB6XPU,https://www.amazon.com/dp/B003HB6XPU,"mount,stable,easy install,flexible
+",1
+18,B00A86QWN0,https://www.amazon.com/dp/B00A86QWN0,"mount,stable,easy install,flexible
+",0
+18,B000DZRY9C,https://www.amazon.com/dp/B000DZRY9C,"mount,stable,easy install,flexible
+",0
+18,B003WUBL0S,https://www.amazon.com/dp/B003WUBL0S,"mount,stable,easy install,flexible
+",1
+18,B00167XD78,https://www.amazon.com/dp/B00167XD78,"mount,stable,easy install,flexible
+",1
+18,B00077INZU,https://www.amazon.com/dp/B00077INZU,"mount,stable,easy install,flexible
+",0
+18,B0040IWVBY,https://www.amazon.com/dp/B0040IWVBY,"mount,stable,easy install,flexible
+",1
+18,B00008AWL2,https://www.amazon.com/dp/B00008AWL2,"mount,stable,easy install,flexible
+",0
+18,B00D30UX8I,https://www.amazon.com/dp/B00D30UX8I,"mount,stable,easy install,flexible
+",1
+18,B00006B83A,https://www.amazon.com/dp/B00006B83A,"mount,stable,easy install,flexible
+",0
+19,B00723KZTY,https://www.amazon.com/dp/B00723KZTY,"modem,reliable,fast",0
+19,B000ESN9HY,https://www.amazon.com/dp/B000ESN9HY,"modem,reliable,fast",0
+19,B00008A6CC,https://www.amazon.com/dp/B00008A6CC,"modem,reliable,fast",0
+19,B003HS7YVU,https://www.amazon.com/dp/B003HS7YVU,"modem,reliable,fast",0
+19,B0047106KC,https://www.amazon.com/dp/B0047106KC,"modem,reliable,fast",0
+19,B000I3T3K2,https://www.amazon.com/dp/B000I3T3K2,"modem,reliable,fast",0
+19,B00006HUAS,https://www.amazon.com/dp/B00006HUAS,"modem,reliable,fast",0
+19,B003Y49TO2,https://www.amazon.com/dp/B003Y49TO2,"modem,reliable,fast",0
+19,B005J8330W,https://www.amazon.com/dp/B005J8330W,"modem,reliable,fast",0
+19,B00GP2HS3Y,https://www.amazon.com/dp/B00GP2HS3Y,"modem,reliable,fast",0
+20,B00KFAGCUM,https://www.amazon.com/dp/B00KFAGCUM,"adapter,safe,stable",0
+20,B002P6PBAQ,https://www.amazon.com/dp/B002P6PBAQ,"adapter,safe,stable",1
+20,B00BJPRI1Y,https://www.amazon.com/dp/B00BJPRI1Y,"adapter,safe,stable",1
+20,B0067I4Z6O,https://www.amazon.com/dp/B0067I4Z6O,"adapter,safe,stable",1
+20,B007Q45EF4,https://www.amazon.com/dp/B007Q45EF4,"adapter,safe,stable",1
+20,B00BQ4F9ZA,https://www.amazon.com/dp/B00BQ4F9ZA,"adapter,safe,stable",0
+20,B007P6FW64,https://www.amazon.com/dp/B007P6FW64,"adapter,safe,stable",0
+20,B00EXIUFC8,https://www.amazon.com/dp/B00EXIUFC8,"adapter,safe,stable",0
+20,B005Z5HT2M,https://www.amazon.com/dp/B005Z5HT2M,"adapter,safe,stable",1
+20,B00C4P8E3E,https://www.amazon.com/dp/B00C4P8E3E,"adapter,safe,stable",0
