@@ -17,4 +17,4 @@ mouse,wireless,quiet
 printer,wireless,fast
 mount,stable,easy install,flexible
 lamp,portable,eye-caring,wireless
-humidifiers,quiet,easy clean
+phone,seamless,slim
