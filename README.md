@@ -1,7 +1,7 @@
 # SI650
 SI650 Final Project:
 
-Amazon product recommendation system based on reviewer’s review history
+##Amazon product recommendation system based on reviewer’s review history
 
 This project is composed of two parts: recommender and search engine.
 Dataset are retrieved from: http://jmcauley.ucsd.edu/data/amazon/links.html
@@ -44,7 +44,7 @@ Instructions on codes:
 		Return mean NDCG@10 and mean precision@k with the given annotated data frame containing relevance. And print PR Curve of each query’s 10 relevance.
 
 
-5.results:
+5.  results:
 	a. bm25-annotation-final.csv: 
 	Results returned from METAPY_BM25.ipynb, and manually annotated in column ‘relevance’. Annotation file is imported into evaluation.ipynb to evaluate bm25 performance
 	b. main-results-annotation.csv:
